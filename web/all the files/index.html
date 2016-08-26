@@ -1,0 +1,32 @@
+<!DOCTYPE htm
+l>
+<html>
+<head>
+<title> Smart robot </title>
+<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+
+ <div id="questionDiv">
+<img style="height: 200px; width: 200px;" src="robot.jpg">
+<h1> Ask Me Your Question! </h1>
+<input type= "text" placeholder="Ask anything!" class="button"><br>
+</div>
+
+<div id = "showAnswer">
+<img src ="robb.gif">
+<h2> The answer is: </h2>
+<h3 id="answer"></h3>
+</div>
+
+<span>
+<h2>Login as Administrator </h2>
+<label> username </label>
+<input type="username" name="username"  id="username"><br><br>
+<label> password </label>
+<input type="password" name="password"  id="password"><br><br>
+<input type="button" id="buttons" onclick="showAnswer()" value="Login and Answer">
+</span>
+<script type="text/javascript" src="index.js"></script>
+</body>
+</html>

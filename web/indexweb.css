@@ -1,0 +1,117 @@
+body{
+	background-image: url("images/cx.gif");
+	text-align: center;
+	border-bottom-color: black;
+	coloe: black;
+	
+}
+
+nav{
+	height: 160px;
+	width: 300px;
+	border-top-right-radius: 40px;
+	border-top-left-radius: 40px
+	border-radius: 40px;
+	background-color: rgba(53, 53, 53, 0.7);
+	top: 70px;
+	
+	
+	padding: 10px;
+}
+
+nav a{
+	text-decoration: none;
+	color: #32FF39;
+	font-family: Arial;
+	font-size; 25px;
+	padding: 10px;
+}
+
+nav a:hover{
+	border-radius: 30px;
+	font-size: 20px;
+	
+	color: #FF00AE; 
+}
+
+h1{
+	color: red;
+}
+
+p{
+	color: #F419FF;
+	font-size: 17px;
+	font-size: 20px;
+}
+
+hr{
+	border-color: #FFA99E;
+}
+
+.countries{
+	text-decoration: none;
+	color: Yellow;
+	font-family: Comic Sans MS;
+}
+
+h2{
+	color: #FF0A7C;
+}
+.countries:hover{
+	
+	
+	color: red;
+	
+	
+}
+
+.heroes{
+	text-decoration: none;
+	color: yellow;
+	font-family: Trebuchet MS;
+}
+
+.heroes:hover{
+	
+	
+	color: red;
+	
+}
+
+label{
+	color: #37FF00;
+	font-family: Forte;
+	font-size: 17px;
+	text-align: center;
+}
+
+.Universities{
+	text-decoration: none;
+	color: yellow;
+	font-family: Courier New;
+}
+
+.Universities:hover{
+	color:red;
+	
+}
+
+button{
+	width: 600px;
+	height: 40px;
+	border: none;
+	font-family: Comic sans ms;
+	font-size: 17px;
+	border-radius: 20px;
+	
+}
+
+
+
+input{
+	width: 600px;
+	height: 30px;
+	border-radius: 20px;
+	background-color: #FFFFB8;
+}
+

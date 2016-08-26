@@ -1,0 +1,41 @@
+body{
+	background-image: url("images/skk.jpg");
+}
+
+h1{
+	color: #00F71D;
+}
+
+h2{
+	color: #00F7B1;
+}
+
+h3{
+	color: #F78222;
+}
+
+ol{
+	color: red;
+	font-size: 20px;
+}
+
+ul{
+	color: red;
+	font-size: 25px;
+}
+
+a{
+	color: red;
+}
+
+a{
+	text-decoration: none;
+	font-size: 17px;
+}
+
+a:hover{
+	font-size: 20px;
+	color: blue;
+	background-color: #F75CAF;
+	border-radius: 40px;
+}

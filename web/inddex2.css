@@ -1,0 +1,21 @@
+body{
+	background-image: url("images/sky.jpg");
+}
+
+h1{
+	color: #F7051D;
+	font-family: Rockwell Extra Bold;
+}
+
+a{
+	text-decoration: none;
+	color: green;
+	font-size: 20px;
+}
+
+a:hover{
+	border-radius: 40px;
+	font-size: 30px;
+	background-color: #83D6F7;
+	color: white;
+}

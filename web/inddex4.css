@@ -1,0 +1,26 @@
+body{
+	background-image: url("images/back.jpg")
+}
+
+
+
+h1{
+	color: red;
+}
+
+h2{
+	color: #F71363;
+}
+
+a{
+	color: yellow;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+a:hover{
+	font-size: 25px;
+	color: red;
+	background-color: blue;
+	border-radius: 30px;
+}
